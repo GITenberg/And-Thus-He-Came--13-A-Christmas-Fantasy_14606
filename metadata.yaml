@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14606#And-Thus-He-Came--13-A-Christmas-Fantasy
 gutenberg_bookshelf:
 - Children's Fiction
 - Christmas
